@@ -1,4 +1,8 @@
 ### Hi there 👋
+- I am a beginning computer science student at Tulane
+- I like 🎹 🎵 🎶, synthesizers, drum machines, bleeps and bloops
+- ![image](https://github.com/ckolodey/ckolodey/assets/142937903/2c699b11-ded9-4a0c-9d8f-a5ce5102fed4)
+![image](https://github.com/ckolodey/ckolodey/assets/142937903/50a9e9a1-c7ee-458f-b683-6754b6fef32a)
 
 <!--
 **ckolodey/ckolodey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
